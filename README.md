@@ -1,1 +1,1 @@
-# BenfordLaw
+# Benford's Law
