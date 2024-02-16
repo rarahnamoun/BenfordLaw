@@ -6,9 +6,3 @@ This repository contains the code and report for a project that explores the app
 
 - `src/`: Contains the source code for the project.
 - `report.pdf`: Includes the detailed report documenting the methodology, results, and analysis of the project.
-
-## Contents
-
-- `src/`
-project codes
-- `report.pdf`: Detailed report outlining the project objectives, methodology, experimental results, and analysis.
